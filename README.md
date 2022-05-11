@@ -42,7 +42,7 @@
 
 # 클래스 설계
 1. 공통기능  
-![공통기능](image/ClassStructure.png)
+![공통기능](image/ClassStructure.PNG)
 2. 사용자 기능  
 ![사용자기능](image/사용자기능.png)
 3. 가맹점 기능  
