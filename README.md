@@ -46,4 +46,4 @@
 
 
 ## 시연 영상 및 발표 영상
-[![Video Label](https://img.youtube.com/vi/BuqNLZQmd-o/0.jpg)](https://youtu.be/BuqNLZQmd-o)  
+[![Video Label](https://img.https://youtu.be/VHOwMseDLf8/0.jpg)](https://youtu.be/VHOwMseDLf8)  
