@@ -8,7 +8,7 @@
 
 대학정보시스템을 통해서 학생, 교수, 관리자를 모두 하나의 통합된 프로그램으로 관리할 수 있다. 시스템에 있는 학사 관리 기능, 수업 관리 기능, 수강 관리 기능, 사용자 관리 기능은 사용자의 특성마다 사용할 수 있는 기능이 제한된다. 사용자들에게 필요한 정보를 GUI 화면으로 제공하여 사용자가 프로그램을 편리하게 사용할 수 있도록 한다.
 
-더 자세한 사항은 [결과보고서](https://github.com/jsb12302/College_Information_System/blob/main/College_Information_System_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp)
+더 자세한 사항은 [결과보고서](https://github.com/jsb12302/College_Information_System/blob/main/College_Information_System_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp) 에서 확인 가능합니다.
 
 ## 개발 환경
 ```
